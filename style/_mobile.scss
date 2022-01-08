@@ -1,0 +1,26 @@
+@media screen and (max-width: 767.98px) {
+  /* ========================================================================== */
+  /*                                   .TABLE                                   */
+  /* ========================================================================== */
+  .table {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2rem 1rem;
+  }
+
+  .table-block {
+    .title {
+      .mm {
+        h2 {
+          font-size: 3rem;
+        }
+
+        span {
+          font-size: 2rem;
+        }
+      }
+    }
+  }
+}
